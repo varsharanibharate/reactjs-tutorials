@@ -124,3 +124,12 @@ dist
 */.eslintcache
 */.vscode/
 */.results
+
+##Adding required files#
+!*/.eslintignore
+!*/.eslintrc
+!*/.gitattributes
+!*/.gitignore
+!*/.npmrc
+!*/.prettierignore
+!*/.prettierrc
