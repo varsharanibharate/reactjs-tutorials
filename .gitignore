@@ -133,3 +133,4 @@ dist
 !*/.npmrc
 !*/.prettierignore
 !*/.prettierrc
+welcomeApp/pnpm-lock.yaml-bkp
